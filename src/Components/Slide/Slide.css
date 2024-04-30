@@ -1,0 +1,19 @@
+.carousel-image {
+    max-height: 400px; /* Adjust the height as needed */
+    object-fit: cover;
+  }
+.carousel-item{
+  width: 90vh;
+}
+.d-block{
+  width: 50%;
+}
+h1{
+  margin-bottom: 2.5rem;
+}
+.text-white{
+  margin-bottom: 7.5rem;
+}
+.text-white p{
+ margin-top: 20%;
+}
