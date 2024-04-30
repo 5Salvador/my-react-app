@@ -65,6 +65,7 @@ const Push = () => {
                        </div>
                       </div>
                     </div>
+                    <p className='text-black text-center '>PRAY UNTIL SOMETHING HAPPENS</p>
                 </div>
            </div>
       <Footer />
