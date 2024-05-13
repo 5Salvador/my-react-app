@@ -57,6 +57,10 @@ export default function App() {
                 </MDBNavbarLink>
               </MDBNavbarItem>
               <MDBNavbarItem>
+                <MDBNavbarLink active aria-current='page' href='#'><Link to="/sl" className='link'>SL1185</Link>
+                </MDBNavbarLink>
+              </MDBNavbarItem>
+              <MDBNavbarItem>
                 <MDBNavbarLink active aria-current='page' href='#'><Link to="/about" className='link'>SOBRE-NOS</Link>
                 </MDBNavbarLink>
               </MDBNavbarItem>

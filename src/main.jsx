@@ -12,6 +12,7 @@ import  Push  from './Pages/Push/Push.jsx'
 import Jeremias from './Pages/Jeremias/Jeremias.jsx';
 import { Contact }   from './Pages/Contact/Contact.jsx';
 import About from './Pages/About/About.jsx';
+import  Sl  from './Pages/Sl1185/Sl.jsx';
 
 
 const router = createBrowserRouter([
@@ -34,6 +35,10 @@ const router = createBrowserRouter([
   {
     path: "about",
     element: <About />
+  },
+  {
+    path: "sl",
+    element: <Sl />
   },
 ]);
 

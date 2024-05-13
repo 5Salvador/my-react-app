@@ -3,19 +3,15 @@ import NavBar from '../../Components/NavBar/NavBar'
 import Footer from '../../Components/Footer/Footer'
 import Products from './Products'
 
-
-const Push = () => {
+export const Sl = () => {
   return (
-  <div>  
-    <NavBar />
-    <Products />
-      
-    <Footer />
+    <div>
+        <NavBar />
+        <Products />
+
+         <Footer />
     </div>
-     
-  
-    
   )
 }
 
-export default Push
+export default Sl
